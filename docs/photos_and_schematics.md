@@ -2,7 +2,7 @@
 
 ## 1. Prototype Photos (Standalone Power Bank Setup)
 
-![Standalone Fall Detector Prototype Powered by Power Bank](../fell_detector.jpg)
+![Standalone Fall Detector Prototype Powered by Power Bank](../fall_detector.jpg)
 
 - **Autonomous Operation:** The ESP32 DevKit V1 and MPU6050 sensor are powered directly via USB from a portable power bank, enabling tether-free testing during simulated falls and daily activities.
 - **Status Feedback:** The external LED on `GPIO 25` provides immediate visual confirmation of power-on initialization and real-time fall alerts.
